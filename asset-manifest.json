@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-mylesuge/static/css/main.5db1380d.chunk.css",
+    "main.js": "/portfolio-mylesuge/static/js/main.68919faa.chunk.js",
+    "main.js.map": "/portfolio-mylesuge/static/js/main.68919faa.chunk.js.map",
+    "runtime-main.js": "/portfolio-mylesuge/static/js/runtime-main.bef03ed2.js",
+    "runtime-main.js.map": "/portfolio-mylesuge/static/js/runtime-main.bef03ed2.js.map",
+    "static/css/2.57ddf7ad.chunk.css": "/portfolio-mylesuge/static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.1199c1dd.chunk.js": "/portfolio-mylesuge/static/js/2.1199c1dd.chunk.js",
+    "static/js/2.1199c1dd.chunk.js.map": "/portfolio-mylesuge/static/js/2.1199c1dd.chunk.js.map",
+    "index.html": "/portfolio-mylesuge/index.html",
+    "precache-manifest.01e92c9d93d952200d82f601b4674120.js": "/portfolio-mylesuge/precache-manifest.01e92c9d93d952200d82f601b4674120.js",
+    "service-worker.js": "/portfolio-mylesuge/service-worker.js",
+    "static/css/2.57ddf7ad.chunk.css.map": "/portfolio-mylesuge/static/css/2.57ddf7ad.chunk.css.map",
+    "static/css/main.5db1380d.chunk.css.map": "/portfolio-mylesuge/static/css/main.5db1380d.chunk.css.map",
+    "static/js/2.1199c1dd.chunk.js.LICENSE.txt": "/portfolio-mylesuge/static/js/2.1199c1dd.chunk.js.LICENSE.txt",
+    "static/media/crio-logo-white.svg": "/portfolio-mylesuge/static/media/crio-logo-white.c9536e04.svg",
+    "static/media/crio-logo.svg": "/portfolio-mylesuge/static/media/crio-logo.63be71d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bef03ed2.js",
+    "static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.1199c1dd.chunk.js",
+    "static/css/main.5db1380d.chunk.css",
+    "static/js/main.68919faa.chunk.js"
+  ]
+}
